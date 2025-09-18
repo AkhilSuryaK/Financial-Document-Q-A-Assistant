@@ -2,6 +2,8 @@
 
 An AI-powered web application that allows users to **upload financial documents (PDF/Excel)** and **ask questions in natural language**. Built to assist **analysts, accountants, and finance professionals** in quickly extracting key information from complex financial files.
 
+![Alt text](https://github.com/AkhilSuryaK/Financial-Document-Q-A-Assistant/blob/a86c2136524cb737765bc5ba5c1fd82c41b5cc2c/Result)
+
 > 🔗 Live Demo: _Coming Soon_  
 > 👨‍💻 Developed by [Kolipaka Akhil Surya](https://www.linkedin.com/in/akhilsurya/)
 
