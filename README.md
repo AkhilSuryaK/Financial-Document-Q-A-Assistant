@@ -65,31 +65,21 @@ ollama pull mistral
 streamlit run app.py
 
 🚀 Usage
-
 Ensure Ollama is running in the background.
-
 Open the application in your browser (automatically opened by Streamlit).
-
 Upload a financial document (PDF or Excel) in the sidebar.
-
 Wait while the document is processed and a vector store is created.
 
 Ask questions like:
-
 “What is the total revenue?”
-
 “What were the expenses in Q2?”
-
 Get context-aware answers instantly.
 
 🤝 Contributing
-
 Contributions are welcome! Follow these steps:
 
 Fork the repository
-
 Create a new feature branch:
-
 git checkout -b feature-name
 
 Make your changes and commit:
@@ -101,10 +91,8 @@ git push origin feature-name
 Please follow clean code practices and test before submitting PRs.
 
 📬 Contact
-
 GitHub: @AkhilSuryaK
 LinkedIn: Akhil Surya Kolipaka
 
 📃 License
-
 This project is licensed under the MIT License.
